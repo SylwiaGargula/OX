@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sylwia\desktop\kólko i krzyzyk sfml\project1\project1\source.cpp(95): warning C4715: 'sprawdzanie': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Sylwia\Desktop\kólko i krzyzyk sfml\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Sylwia\Desktop\kólko i krzyzyk sfml\Project1\Debug\Project1.pdb (Partial PDB)
